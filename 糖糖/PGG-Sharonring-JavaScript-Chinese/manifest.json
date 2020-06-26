@@ -1,0 +1,277 @@
+{
+  "name": "PGG-Sharonring-JavaScript-Chinese",
+  "version": "1.0",
+  "author": "黑小白",
+  "display-name": "PGG 糖糖 JavaScript[Chinese]",
+  "description": "全新台词，56条语音，由Potato Game Group的糖糖配音的JavaScript语音包",
+  "avatar": "avatar.png",
+  "avatar-dark": "avatar-dark.png",
+  "languages": [
+    "javascript"
+  ],
+  "locale": "zh",
+  "gender": "female",
+  "contributes": [
+    {
+      "keywords": [
+        "function"
+      ],
+      "voices": [
+        "def_1.mp3",
+        "def_2.mp3",
+        "def_3.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "=>"
+      ],
+      "voices": [
+        "arrow_function_1.mp3",
+        "arrow_function_2.mp3",
+        "arrow_function_3.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "if(",
+        "if ("
+      ],
+      "voices": [
+        "if_1.mp3",
+        "if_2.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "else{",
+        "else {"
+      ],
+      "voices": [
+        "else_1.mp3",
+        "else_2.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "for(",
+        "for (",
+        "while(",
+        "while ("
+      ],
+      "voices": [
+        "for_1.mp3",
+        "for_2.mp3",
+        "for_3.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "break"
+      ],
+      "voices": [
+        "break_1.mp3",
+        "break_2.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "continue"
+      ],
+      "voices": [
+        "continue_1.mp3",
+        "continue_2.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "import ",
+        "include "
+      ],
+      "voices": [
+        "import_1.mp3",
+        "import_2.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "watch:",
+        "watch :"
+      ],
+      "voices": [
+        "watch_1.mp3",
+        "watch_2.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "v-model"
+      ],
+      "voices": [
+        "v-model_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "console.log",
+        "console.error"
+      ],
+      "voices": [
+        "console_1.mp3",
+        "console_2.mp3",
+        "console_3.mp3",
+        "console_4.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "setTimeout"
+      ],
+      "voices": [
+        "setTimeout_1.mp3",
+        "setTimeout_2.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "setInterval"
+      ],
+      "voices": [
+        "setInterval_1.mp3",
+        "setInterval_2.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "new "
+      ],
+      "voices": [
+        "new_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "try{",
+        "try {"
+      ],
+      "voices": [
+        "try_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "catch"
+      ],
+      "voices": [
+        "except_1.mp3",
+        "except_2.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "finally"
+      ],
+      "voices": [
+        "finally_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "true"
+      ],
+      "voices": [
+        "true_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "false"
+      ],
+      "voices": [
+        "false_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "return"
+      ],
+      "voices": [
+        "return_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "ture"
+      ],
+      "voices": [
+        "ture_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "flase"
+      ],
+      "voices": [
+        "flase_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_morning"
+      ],
+      "voices": [
+        "time_morning_1.mp3",
+        "time_morning_2.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_before_noon"
+      ],
+      "voices": [
+        "time_before_noon_1.mp3",
+        "time_before_noon_2.mp3",
+        "time_before_noon_3.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_noon"
+      ],
+      "voices": [
+        "time_noon_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_evening"
+      ],
+      "voices": [
+        "time_evening_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_midnight"
+      ],
+      "voices": [
+        "time_midnight_1.mp3",
+        "time_midnight_2.mp3",
+        "time_midnight_3.mp3",
+        "time_midnight_4.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_each_hour"
+      ],
+      "voices": [
+        "time_each_hour_1.mp3",
+        "time_each_hour_2.mp3",
+        "time_each_hour_3.mp3",
+        "time_each_hour_4.mp3",
+        "time_each_hour_5.mp3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "name": "PGG-Sharonring-Python-Chinese",
+  "version": "1.0",
+  "author": "黑小白",
+  "display-name": "PGG 糖糖 Python[Chinese]",
+  "description": "全新台词，58条语音，由Potato Game Group的糖糖配音的Python语音包",
+  "avatar": "avatar.png",
+  "avatar-dark": "avatar-dark.png",
+  "languages": [
+    "python"
+  ],
+  "locale": "zh",
+  "gender": "female",
+  "contributes": [
+    {
+      "keywords": [
+        "python this",
+        "Python this",
+        "The Zen of Python",
+        "the zen of python"
+      ],
+      "voices": [
+        "python_this_1.mp3",
+        "python_this_2.mp3",
+        "python_this_3.mp3",
+        "python_this_4.mp3",
+        "python_this_5.mp3",
+        "python_this_6.mp3",
+        "python_this_7.mp3",
+        "python_this_8.mp3",
+        "python_this_9.mp3",
+        "python_this_10.mp3",
+        "python_this_11.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "import "
+      ],
+      "voices": [
+        "import_1.mp3",
+        "import_2.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "def "
+      ],
+      "voices": [
+        "def_1.mp3",
+        "def_2.mp3",
+        "def_3.mp3",
+        "python_this_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "if "
+      ],
+      "voices": [
+        "if_1.mp3",
+        "if_2.mp3",
+        "python_this_2.mp3",
+        "python_this_6.mp3",
+        "python_this_7.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "else ",
+        "else:"
+      ],
+      "voices": [
+        "else_1.mp3"
+
+      ]
+    },
+    {
+      "keywords": [
+        "for ",
+        "while "
+      ],
+      "voices": [
+        "for_1.mp3",
+        "for_2.mp3",
+        "for_3.mp3",
+        "python_this_2.mp3",
+        "python_this_5.mp3",
+        "python_this_7.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "break\n",
+        "break\r\n"
+      ],
+      "voices": [
+        "break_1.mp3",
+        "break_2.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "continue\n",
+        "continue\r\n"
+      ],
+      "voices": [
+        "continue_1.mp3",
+        "continue_2.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "try:"
+      ],
+      "voices": [
+        "try_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "except ",
+        "except:"
+      ],
+      "voices": [
+        "except_1.mp3",
+        "except_2.mp3",
+        "python_8.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "finally:"
+      ],
+      "voices": [
+        "finally_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "print("
+      ],
+      "voices": [
+        "print_1.mp3",
+        "print_2.mp3",
+        "python_this_6.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "del ",
+        "del("
+      ],
+      "voices": [
+        "del_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "pass\n",
+        "pass\r\n"
+      ],
+      "voices": [
+        "pass_1.mp3",
+        "pass_2.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "True"
+      ],
+      "voices": [
+        "true_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "False"
+      ],
+      "voices": [
+        "false_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "return ",
+        "return("
+      ],
+      "voices": [
+        "return_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "Ture"
+      ],
+      "voices": [
+        "ture_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "Flase"
+      ],
+      "voices": [
+        "flase_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "mian"
+      ],
+      "voices": [
+        "mian_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_morning"
+      ],
+      "voices": [
+        "time_morning_1.mp3",
+        "time_morning_2.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_before_noon"
+      ],
+      "voices": [
+        "time_before_noon_1.mp3",
+        "time_before_noon_2.mp3",
+        "time_before_noon_3.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_noon"
+      ],
+      "voices": [
+        "time_noon_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_evening"
+      ],
+      "voices": [
+        "time_evening_1.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_midnight"
+      ],
+      "voices": [
+        "time_midnight_1.mp3",
+        "time_midnight_2.mp3",
+        "time_midnight_3.mp3",
+        "time_midnight_4.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_each_hour"
+      ],
+      "voices": [
+        "time_each_hour_1.mp3",
+        "time_each_hour_2.mp3",
+        "time_each_hour_3.mp3",
+        "time_each_hour_4.mp3",
+        "time_each_hour_5.mp3"
+      ]
+    }
+  ]
+}
