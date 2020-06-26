@@ -24,7 +24,7 @@
 
 共计56条语音
 
-![](C:\Users\hxb\Desktop\Sharonring-JavaScript.png)
+![](./image/Sharonring-JavaScript.png)
 
 ## [Acfun](https://www.acfun.cn) 知名 Vup ？？
 
