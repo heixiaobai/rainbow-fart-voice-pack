@@ -19,13 +19,13 @@
 
 共计58条语音
 
-![](./image/Sharonring-Python.png)
+![PGG 糖糖 Python[Chinese]](image/Sharonring-Python.png)
 
 ### JavaScript
 
 共计56条语音
 
-![](./image/Sharonring-JavaScript.png)
+![PGG 糖糖 JavaScript[Chinese]](image/Sharonring-JavaScript.png)
 
 ## [AcFun](https://www.acfun.cn) 知名 Vup ？？
 
