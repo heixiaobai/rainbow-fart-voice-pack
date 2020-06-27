@@ -10,9 +10,10 @@
 
 目前已更新一位配音，更多配音者敬请期待  
 
-## PGG 糖糖
+## PGG [糖糖](./%E7%B3%96%E7%B3%96)
 
-由Potato Game Group的[糖糖](https://github.com/Sharonring)配音的语音包，有Python以及JavaScript两个版本
+由Potato Game Group的[糖糖](https://github.com/Sharonring)配音的语音包
+目前支持Python与JavaScript两个版本，合计61条台词  
 
 ### Python
 
@@ -26,6 +27,6 @@
 
 ![](./image/Sharonring-JavaScript.png)
 
-## [Acfun](https://www.acfun.cn) 知名 Vup ？？
+## [AcFun](https://www.acfun.cn) 知名 Vup ？？
 
 敬请期待
