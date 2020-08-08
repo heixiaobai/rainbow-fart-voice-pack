@@ -8,25 +8,19 @@
 
 更多台词与配音持续更新中……  
 
-目前已更新一位配音，更多配音者敬请期待  
+## AcFun VUP: [营业型千岛](https://www.acfun.cn/u/30352828)
 
-## PGG [糖糖](./%E7%B3%96%E7%B3%96)
+[AcFun](https://www.acfun.cn)（A站）知名VUP：[营业型千岛](https://www.acfun.cn/u/30352828)配音的语音包
+
+支持版本：Python/JavaScript
+
+76条语音，6首歌曲
+
+可以通过输入`com:music`播放歌曲
+
+## PGG: [糖糖](./%E7%B3%96%E7%B3%96)
 
 由Potato Game Group的[糖糖](https://github.com/Sharonring)配音的语音包
-目前支持Python与JavaScript两个版本，合计71条台词，其中61条为全新台词 
+支持版本：Python/JavaScript
 
-### Python
-
-共计58条语音
-
-![PGG 糖糖 Python[Chinese]](image/Sharonring-Python.png)
-
-### JavaScript
-
-共计56条语音
-
-![PGG 糖糖 JavaScript[Chinese]](image/Sharonring-JavaScript.png)
-
-## [AcFun](https://www.acfun.cn) 知名 Vup ？？
-
-敬请期待
+71条台词，其中61条为全新台词 
