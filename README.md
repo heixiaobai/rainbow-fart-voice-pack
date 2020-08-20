@@ -20,7 +20,7 @@
 
 ## PGG: [糖糖](./%E7%B3%96%E7%B3%96)
 
-由Potato Game Group的[糖糖](https://github.com/Sharonring)配音的语音包
+由Potato Game Group的[糖糖](https://github.com/Sharonring)配音的语音包  
 支持版本：Python/JavaScript
 
 71条台词，其中61条为全新台词 
