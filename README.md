@@ -8,7 +8,6 @@
 
 更多台词与配音持续更新中……  
 
-<iframe style="min-width: 775px;min-height: 436px" src="https://www.acfun.cn/player/ac17887067" id="ACPlayer-re" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## AcFun VUP: [营业型千岛](https://www.acfun.cn/u/30352828)
 
@@ -19,6 +18,10 @@
 76条语音，6首歌曲
 
 可以通过输入`com:music`播放歌曲
+
+### 演示视频
+
+[![demo video](https://tx-free-imgs.acfun.cn/o_1ei5jbl0l83n16h813bu1c8r1o5a0.jpeg?imageView2/1/w/720/h/404)](https://www.acfun.cn/v/ac17887067)
 
 ## PGG: [糖糖](./%E7%B3%96%E7%B3%96)
 
