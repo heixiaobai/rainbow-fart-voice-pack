@@ -8,6 +8,8 @@
 
 更多台词与配音持续更新中……  
 
+<iframe style="min-width: 775px;min-height: 436px" src="https://www.acfun.cn/player/ac17887067" id="ACPlayer-re" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 ## AcFun VUP: [营业型千岛](https://www.acfun.cn/u/30352828)
 
 [AcFun](https://www.acfun.cn)（A站）知名VUP：[营业型千岛](https://www.acfun.cn/u/30352828)配音的语音包
